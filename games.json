@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "label": "new",
+    "img": "https://th.bing.com/th?id=OIF.%2b2soxmgoY5VlFsP3z2xwfg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": 799,
+    "details": "Grand Theft Auto VI (GTA 6) – Open-world action-adventure game by Rockstar Games, set in Vice City, featuring Jason and Lucia."
+  },
+  {
+    "id": 2,
+    "img": "https://tse3.mm.bing.net/th/id/OIP.LYARh-ypmW7FHwDHpoH3wQHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": 599,
+    "details": "Call of Duty 4: Modern Warfare – First-person military shooter by Infinity Ward, featuring intense combat and a modern warfare storyline."
+  },
+  {
+    "id": 3,
+    "img": "https://tse1.mm.bing.net/th/id/OIP.d2aSou0Q9NuRVhUdbYZSXAHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": 299,
+    "details": "Sekiro: Shadows Die Twice – Action-adventure game by FromSoftware, featuring challenging sword combat, stealth, and a samurai-inspired world."
+  },
+  {
+    "id": 4,
+    "img": "https://tse2.mm.bing.net/th/id/OIP.T4BE2Y2eYSZovUDh3thElgHaLH?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": 399,
+    "details": "Beast of Reincarnation – Action RPG by Game Freak, featuring a post-apocalyptic world, intense combat, exploration, and a unique human-and-dog partnership."
+  },
+  {
+    "id": 5,
+    "img": "https://imgs.search.brave.com/OXPFk2qGwl5RHbMhI83ojx0xIfMNX1LnKTZ9mYXupR4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvdGh1bWJu/YWlsL3MtcmVkLWRl/YWQtcmVkZW1wdGlv/bi0yLXVqZWVhYzJh/ajZqemFnYmMuanBn",
+    "price": 499,
+    "details": "Red Dead Redemption 2 (RDR2) – Open-world action-adventure game by Rockstar Games, featuring an immersive Wild West setting, outlaw life, exploration, and a gripping story."
+  },
+  {
+    "id": 6,
+    "img": "https://imgs.search.brave.com/jgcTf4d908kaPgKEINMegtrVyaOPBFW1Hbw8FEkBu5I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi8z/LzNkL01hcnZlbCdz/X1dvbHZlcmluZV9j/b3Zlcl9hcnQuanBn/LzI1MHB4LU1hcnZl/bCdzX1dvbHZlcmlu/ZV9jb3Zlcl9hcnQu/anBn",
+    "price": 459,
+    "details": "Marvel's Wolverine – Action-adventure game by Insomniac Games, featuring intense combat, brutal claws, and an immersive story based on the Marvel superhero Wolverine."
+  },
+  {
+    "id": 7,
+    "label": "new",
+    "img": "https://imgs.search.brave.com/MMBa1xbRBTW__dfj5S2Y5JFqgn1D_UYlOGn7sAuvokg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I2LzZm/L2FiL2I2NmZhYjAz/OGIyNGQ3MDI3NWMw/NGZkYzZjMzNlYTU3/LmpwZw",
+    "price": 649,
+    "details": "Phantom Blade Zero – Action RPG by S-GAME, featuring fast-paced martial arts combat, stylish sword fighting, and a dark fantasy world inspired by Chinese culture."
+  },
+  {
+    "id": 8,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=God+of+War+Ragnar%C3%B6k",
+    "price": 549,
+    "details": "God of War Ragnarök – Kratos and Atreus journey through the Nine Realms as Fimbulwinter grips the world and Ragnarök draws near, with brutal Norse-mythology combat."
+  },
+  {
+    "id": 9,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Marvel%27s+Spider-Man+2",
+    "price": 549,
+    "details": "Marvel's Spider-Man 2 – Play as Peter Parker and Miles Morales, swing across an expanded New York, and face Venom and Kraven in a story-driven superhero adventure."
+  },
+  {
+    "id": 10,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Horizon+Forbidden+West",
+    "price": 449,
+    "details": "Horizon Forbidden West – Aloy travels to the dangerous western frontier of a post-apocalyptic America to uncover the source of a deadly plague, hunting huge machines along the way."
+  },
+  {
+    "id": 11,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=The+Last+of+Us+Part+I",
+    "price": 499,
+    "details": "The Last of Us Part I – A full remake of the acclaimed story following Joel and Ellie across a ruined United States, with rebuilt visuals and gameplay."
+  },
+  {
+    "id": 12,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Ghost+of+Tsushima+Director%27s+Cut",
+    "price": 449,
+    "details": "Ghost of Tsushima Director's Cut – Play as samurai Jin Sakai defending Tsushima Island from the Mongol invasion, including the Iki Island expansion."
+  },
+  {
+    "id": 13,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Elden+Ring",
+    "price": 499,
+    "details": "Elden Ring – A vast open-world action RPG by FromSoftware and George R. R. Martin, set in the Lands Between with punishing combat and deep exploration."
+  },
+  {
+    "id": 14,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Demon%27s+Souls",
+    "price": 449,
+    "details": "Demon's Souls – A ground-up remake of the classic dark fantasy RPG, set in the cursed kingdom of Boletaria with demanding combat and stunning PS5 visuals."
+  },
+  {
+    "id": 15,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Returnal",
+    "price": 399,
+    "details": "Returnal – A third-person roguelike shooter where Selene is trapped in a time loop on an alien planet, dying and restarting with fast, intense combat."
+  },
+  {
+    "id": 16,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Ratchet+%26+Clank%3A+Rift+Apart",
+    "price": 399,
+    "details": "Ratchet & Clank: Rift Apart – Jump between dimensions with Ratchet and Rivet in a colourful, gadget-filled platformer that showcases the PS5's speed."
+  },
+  {
+    "id": 17,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Final+Fantasy+VII+Rebirth",
+    "price": 599,
+    "details": "Final Fantasy VII Rebirth – Cloud and his companions leave Midgar and explore a vast open world in the second chapter of the Remake trilogy."
+  },
+  {
+    "id": 18,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Astro+Bot",
+    "price": 449,
+    "details": "Astro Bot – A joyful 3D platformer packed with inventive levels and PlayStation cameos, using the DualSense controller in clever ways."
+  },
+  {
+    "id": 19,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Black+Myth%3A+Wukong",
+    "price": 499,
+    "details": "Black Myth: Wukong – An action RPG inspired by Journey to the West, with fast staff combat, transformations, and huge mythological bosses."
+  },
+  {
+    "id": 20,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Cyberpunk+2077",
+    "price": 399,
+    "details": "Cyberpunk 2077 – A first-person open-world RPG set in Night City, where you play as the mercenary V chasing a unique implant that grants immortality."
+  },
+  {
+    "id": 21,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Resident+Evil+4",
+    "price": 399,
+    "details": "Resident Evil 4 – A modern remake of the survival horror classic, following Leon S. Kennedy as he rescues the president's daughter from a sinister village cult."
+  },
+  {
+    "id": 22,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Hogwarts+Legacy",
+    "price": 449,
+    "details": "Hogwarts Legacy – An open-world action RPG set in the 1800s wizarding world, where you attend Hogwarts, learn spells, and uncover an ancient secret."
+  },
+  {
+    "id": 23,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Baldur%27s+Gate+3",
+    "price": 599,
+    "details": "Baldur's Gate 3 – A deep, choice-driven Dungeons & Dragons RPG with turn-based combat, memorable companions, and branching storylines."
+  },
+  {
+    "id": 24,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Death+Stranding+Director%27s+Cut",
+    "price": 349,
+    "details": "Death Stranding Director's Cut – Hideo Kojima's strange, atmospheric journey as Sam Porter Bridges reconnects a shattered America, with added PS5 content."
+  },
+  {
+    "id": 25,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Stellar+Blade",
+    "price": 499,
+    "details": "Stellar Blade – A stylish sci-fi action game where Eve fights to reclaim Earth from the Naytiba, with fast, parry-focused blade combat."
+  },
+  {
+    "id": 26,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Silent+Hill+2",
+    "price": 449,
+    "details": "Silent Hill 2 – A remake of the psychological horror classic, following James Sunderland into the fog-covered town after receiving a letter from his late wife."
+  },
+  {
+    "id": 27,
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Assassin%27s+Creed+Shadows",
+    "price": 549,
+    "details": "Assassin's Creed Shadows – Set in feudal Japan, play as the shinobi Naoe and the samurai Yasuke in a sprawling open-world stealth and action adventure."
+  },
+  {
+    "id": 28,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Ghost+of+Y%C5%8Dtei",
+    "price": 649,
+    "details": "Ghost of Yōtei – Action-adventure by Sucker Punch Productions, set in 1600s Ezo, following Atsu, a wandering mercenary hunting the outlaws who wronged her."
+  },
+  {
+    "id": 29,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Death+Stranding+2%3A+On+the+Beach",
+    "price": 649,
+    "details": "Death Stranding 2: On the Beach – Action game by Kojima Productions, where Sam Porter Bridges continues his journey to reconnect a broken world in a strange, cinematic sequel."
+  },
+  {
+    "id": 30,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Resident+Evil+Requiem",
+    "price": 599,
+    "details": "Resident Evil Requiem – Survival horror by Capcom, the latest mainline entry in the series, with tense exploration, resource management and terrifying enemies."
+  },
+  {
+    "id": 31,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Saros",
+    "price": 599,
+    "details": "Saros – Third-person sci-fi shooter by Housemarque, featuring fast, bullet-heavy combat and a mysterious alien world."
+  },
+  {
+    "id": 32,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Crimson+Desert",
+    "price": 599,
+    "details": "Crimson Desert – Open-world action-adventure by Pearl Abyss, featuring a huge fantasy continent, large-scale battles and cinematic combat."
+  },
+  {
+    "id": 33,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=007+First+Light",
+    "price": 649,
+    "details": "007 First Light – Action-adventure by IO Interactive, an origin story of a young James Bond with stealth, gadgets and spy-thriller action."
+  },
+  {
+    "id": 34,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Battlefield+6",
+    "price": 599,
+    "details": "Battlefield 6 – First-person military shooter by Battlefield Studios, featuring large-scale multiplayer warfare with destructible environments and combined-arms combat."
+  },
+  {
+    "id": 35,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=DOOM%3A+The+Dark+Ages",
+    "price": 549,
+    "details": "DOOM: The Dark Ages – First-person shooter by id Software, a medieval-flavoured prequel with heavy, aggressive combat, a shield and brutal demon-slaying."
+  },
+  {
+    "id": 36,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Clair+Obscur%3A+Expedition+33",
+    "price": 499,
+    "details": "Clair Obscur: Expedition 33 – Turn-based RPG by Sandfall Interactive, set in a Belle Époque-inspired world with real-time combat elements and a striking story."
+  },
+  {
+    "id": 37,
+    "label": "new",
+    "img": "https://placehold.co/400x560/1a1a2e/ffffff/png?text=Monster+Hunter+Wilds",
+    "price": 549,
+    "details": "Monster Hunter Wilds – Action RPG by Capcom, where hunters track gigantic monsters across dynamic, living environments, solo or with friends."
+  }
+]
