@@ -1,4 +1,97 @@
+[
+  {
+    "id": 1,
+    "label": "new",
+    "img": "https://th.bing.com/th?id=OIF.%2b2soxmgoY5VlFsP3z2xwfg&r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "price": 799,
+    "details": "Grand Theft Auto VI (GTA 6) – Open-world action-adventure game by Rockstar Games, set in Vice City, featuring Jason and Lucia."
   },
+  {
+    "id": 2,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/7940/header.jpg",
+    "price": 599,
+    "details": "Call of Duty 4: Modern Warfare – First-person military shooter by Infinity Ward, featuring intense combat and a modern warfare storyline."
+  },
+  {
+    "id": 3,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+    "price": 299,
+    "details": "Sekiro: Shadows Die Twice – Action-adventure game by FromSoftware, featuring challenging sword combat, stealth, and a samurai-inspired world."
+  },
+  {
+    "id": 4,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2001760/header.jpg",
+    "price": 399,
+    "details": "Beast of Reincarnation – Action RPG by Game Freak, featuring a post-apocalyptic world, intense combat, exploration, and a unique human-and-dog partnership."
+  },
+  {
+    "id": 5,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "price": 499,
+    "details": "Red Dead Redemption 2 (RDR2) – Open-world action-adventure game by Rockstar Games, featuring an immersive Wild West setting, outlaw life, exploration, and a gripping story."
+  },
+  {
+    "id": 6,
+    "img": "https://imgs.search.brave.com/jgcTf4d908kaPgKEINMegtrVyaOPBFW1Hbw8FEkBu5I/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/Yi53aWtpbWVkaWEu/b3JnL3dpa2lwZWRp/YS9lbi90aHVtYi8z/LzNkL01hcnZlbCdz/X1dvbHZlcmluZV9j/b3Zlcl9hcnQuanBn/LzI1MHB4LU1hcnZl/bCdzX1dvbHZlcmlu/ZV9jb3Zlcl9hcnQu/anBn",
+    "price": 459,
+    "details": "Marvel's Wolverine – Action-adventure game by Insomniac Games, featuring intense combat, brutal claws, and an immersive story based on the Marvel superhero Wolverine."
+  },
+  {
+    "id": 7,
+    "label": "new",
+    "img": "https://imgs.search.brave.com/MMBa1xbRBTW__dfj5S2Y5JFqgn1D_UYlOGn7sAuvokg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2I2LzZm/L2FiL2I2NmZhYjAz/OGIyNGQ3MDI3NWMw/NGZkYzZjMzNlYTU3/LmpwZw",
+    "price": 649,
+    "details": "Phantom Blade Zero – Action RPG by S-GAME, featuring fast-paced martial arts combat, stylish sword fighting, and a dark fantasy world inspired by Chinese culture."
+  },
+  {
+    "id": 8,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2322010/header.jpg",
+    "price": 549,
+    "details": "God of War Ragnarök – Kratos and Atreus journey through the Nine Realms as Fimbulwinter grips the world and Ragnarök draws near, with brutal Norse-mythology combat."
+  },
+  {
+    "id": 9,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2651280/header.jpg",
+    "price": 549,
+    "details": "Marvel's Spider-Man 2 – Play as Peter Parker and Miles Morales, swing across an expanded New York, and face Venom and Kraven in a story-driven superhero adventure."
+  },
+  {
+    "id": 10,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2420110/header.jpg",
+    "price": 449,
+    "details": "Horizon Forbidden West – Aloy travels to the dangerous western frontier of a post-apocalyptic America to uncover the source of a deadly plague, hunting huge machines along the way."
+  },
+  {
+    "id": 11,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1888930/header.jpg",
+    "price": 499,
+    "details": "The Last of Us Part I – A full remake of the acclaimed story following Joel and Ellie across a ruined United States, with rebuilt visuals and gameplay."
+  },
+  {
+    "id": 12,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/2215430/header.jpg",
+    "price": 449,
+    "details": "Ghost of Tsushima Director's Cut – Play as samurai Jin Sakai defending Tsushima Island from the Mongol invasion, including the Iki Island expansion."
+  },
+  {
+    "id": 13,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "price": 499,
+    "details": "Elden Ring – A vast open-world action RPG by FromSoftware and George R. R. Martin, set in the Lands Between with punishing combat and deep exploration."
+  },
+  {
+    "id": 14,
+    "img": "https://en.wikipedia.org/wiki/Special:FilePath/Demon_s_Souls_cover_art.jpg",
+    "price": 449,
+    "details": "Demon's Souls – A ground-up remake of the classic dark fantasy RPG, set in the cursed kingdom of Boletaria with demanding combat and stunning PS5 visuals."
+  },
+  {
+    "id": 15,
+    "img": "https://cdn.akamai.steamstatic.com/steam/apps/1649240/header.jpg",
+    "price": 399,
+    "details": "Returnal – A third-person roguelike shooter where Selene is trapped in a time loop on an alien planet, dying and restarting with fast, intense combat."
+  },
+    },
   {
     "id": 22,
     "img": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
